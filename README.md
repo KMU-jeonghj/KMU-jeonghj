@@ -99,7 +99,7 @@ Google/Kakao 소셜 로그인, 콘텐츠 탐색, 맞춤 추천, 컬렉션 보드
 
 <br />
 
-### 🔮 NxtSeries? — AI 엔터테인먼트 추천
+### 🔮 NxtSeries? — AI 기반 컨텐츠 추천
 
 > 개인 프로젝트 · **Full-stack**
 
