@@ -53,7 +53,7 @@
 
 <br />
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🧩 잇다 (ITDA) — 단기·일용직 구인구직 매칭 플랫폼
 
