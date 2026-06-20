@@ -1,0 +1,12 @@
+{
+  "name": "kmu-jeonghj-readme-preview",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preview": "node preview-readme.mjs",
+    "preview:static": "node preview-readme.mjs --once"
+  },
+  "devDependencies": {
+    "marked": "^15.0.6"
+  }
+}
