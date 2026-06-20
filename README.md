@@ -1,17 +1,11 @@
 <div align="center">
 
-# 👋 안녕하세요, 정호진(jino)입니다
-
-**국민대학교 소프트웨어융합대학 · 사용자 경험을 고민하는 Frontend Developer**
-
-[![GitHub](https://img.shields.io/badge/GitHub-KMU--jeonghj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KMU-jeonghj)
-[![Email](https://img.shields.io/badge/Contact-GitHub%20Profile-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/KMU-jeonghj)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6BB5FF,45:2E6DB4,100:0B3D91&height=165&section=header&text=정호진%20(jino)&fontSize=34&fontColor=ffffff&desc=국민대학교%20소프트웨어융합대학%20·%20Frontend%20Developer&descSize=14&descAlignY=74&animation=fadeIn" alt="header" />
 
 <br />
 
-```
-React · TypeScript · Vite · Styled Components · Zustand · FSD
-```
+[![GitHub](https://img.shields.io/badge/GitHub-KMU--jeonghj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KMU-jeonghj)
+[![Email](https://img.shields.io/badge/Email-hjjung70@kookmin.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjjung70@kookmin.ac.kr)
 
 </div>
 
@@ -34,6 +28,7 @@ React · TypeScript · Vite · Styled Components · Zustand · FSD
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![FSD](https://img.shields.io/badge/FSD-1A3A6B?style=flat-square&logo=react&logoColor=4A90D9)
 
 ### Backend
 
@@ -77,7 +72,7 @@ React · TypeScript · Vite · Styled Components · Zustand · FSD
 
 ### 🎬 TasteBox — 영화·TV 콘텐츠 추천 서비스
 
-> StepUp2025 팀 프로젝트 · **Frontend**
+> 팀 프로젝트 · **Frontend**
 
 Google/Kakao 소셜 로그인, 콘텐츠 탐색, 맞춤 추천, 컬렉션 보드 등 OTT형 콘텐츠 서비스 UI를 구현했습니다.
 
@@ -91,7 +86,7 @@ Google/Kakao 소셜 로그인, 콘텐츠 탐색, 맞춤 추천, 컬렉션 보드
 
 ### 🍀 숨쉴 취미.zip — 학기용 취미 추천 웹
 
-> 2026 웹클라이언트컴퓨팅 팀 프로젝트 · **UI/UX · Frontend**
+> 팀 프로젝트 · **UI/UX · Frontend**
 
 대학생의 스트레스와 번아웃을 완화하기 위해, 학기 중에도 부담 없이 시작할 수 있는 취미를 추천하는 웹사이트입니다.  
 **디자인 시스템, 공통 컴포넌트(모달·카드), 데이터 구조 설계, 취미도감·페이지 연동**을 담당했습니다.
@@ -122,23 +117,15 @@ Google/Kakao 소셜 로그인, 콘텐츠 탐색, 맞춤 추천, 컬렉션 보드
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KMU-jeonghj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMU-jeonghj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KMU-jeonghj&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=4A90D9&icon_color=0B3D91&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMU-jeonghj&layout=compact&theme=transparent&hide_border=true&title_color=4A90D9&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 
 <br />
 
-## 💬 Contact
-
-궁금한 점이나 협업 제안은 GitHub 이슈·PR 또는 프로필을 통해 편하게 연락 주세요.
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/@KMU--jeonghj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KMU-jeonghj)
-
-<br />
-
-_"좋은 UI는 사용자가 생각하지 않게 만든다"_
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6BB5FF,45:2E6DB4,100:0B3D91&height=80&section=footer" alt="footer" />
 
 </div>
